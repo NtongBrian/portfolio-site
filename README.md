@@ -52,7 +52,7 @@ To be deployed on [GitHub Pages](https://brianttong.github.io/portfolio-site/)
 ## 📬 Contact Me
 
 - 📧 ntongbrianmichael@gmail.com
-- 🌐 [LinkedIn](https://linkedin.com/in/brianttong)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/brian-ntong-1b2683167/)
 - 💻 [GitHub](https://github.com/NtongBrian)
 
 ---
